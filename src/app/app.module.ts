@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { TodoListComponent } from './todo-list/todo-list.component';
 
+
 const appRoutes : Routes=[
   {
     path:"",component:TodoListComponent
